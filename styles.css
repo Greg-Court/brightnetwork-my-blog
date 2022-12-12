@@ -32,3 +32,9 @@ h3, p {
 img {
   border-radius: 16px;
 }
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
